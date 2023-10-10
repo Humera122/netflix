@@ -1,2 +1,2 @@
 # netflix
-https://github.com/Humera122/netflix
+created a simple website having similar homepage of Netflix with HTML and CSS
