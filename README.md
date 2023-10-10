@@ -1,2 +1,2 @@
 # netflix
-https://github.com/Humera122/temperature_converter
+https://github.com/Humera122/netflix
